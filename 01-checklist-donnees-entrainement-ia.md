@@ -64,3 +64,5 @@ Objectif : identifier ce que le système IA utilise, à quel moment, avec quelle
 - Peut-on démontrer que les risques PI ont été identifiés ?
 - Peut-on démontrer que les risques données personnelles ont été examinés ?
 - Peut-on suspendre ou modifier l’usage si une difficulté apparaît ?
+
+[← Retour à l’accueil du kit](index.html)
