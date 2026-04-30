@@ -19,23 +19,20 @@ La proposition de loi adoptée par le Sénat le 8 avril 2026 sur la présomption
 
 ## Contenu du kit
 
-1. `01-checklist-donnees-entrainement-ia.md`  
-   Checklist pour identifier les données, contenus ou sources utilisés autour d’un système IA.
+1. [Checklist — données d’entraînement IA](01-checklist-donnees-entrainement-ia.html)  
+   Identifier les données, contenus ou sources utilisés autour d’un système IA.
 
-2. `02-questions-fournisseur-modele-ia.md`  
-   Questions à poser à un fournisseur de modèle IA ou de solution IA générative.
+2. [Questions à poser au fournisseur du modèle IA](02-questions-fournisseur-modele-ia.html)  
+   Préparer les questions essentielles à poser à un fournisseur de modèle ou de solution IA générative.
 
-3. `03-checklist-contrat-ia-copyright.md`  
-   Points contractuels à vérifier avant de conclure ou renégocier un contrat IA.
+3. [Checklist contrat IA / copyright](03-checklist-contrat-ia-copyright.html)  
+   Vérifier les clauses importantes avant de conclure ou renégocier un contrat IA.
 
-4. `04-dossier-preuve-projet-ia.md`  
-   Liste des pièces à conserver dans un dossier interne de preuve.
+4. [Dossier de preuve projet IA](04-dossier-preuve-projet-ia.html)  
+   Lister les pièces à conserver pour documenter les choix faits pendant le projet.
 
-5. `05-matrice-risque-pi-ia.md`  
-   Matrice simple pour documenter les risques PI / IA par usage.
-
-6. `SOURCES.md`  
-   Sources officielles et textes utiles.
+5. [Matrice risque PI / IA](05-matrice-risque-pi-ia.html)  
+   Documenter les risques liés à la propriété intellectuelle, aux contenus et à la preuve.
 
 ## Mode d’emploi rapide
 
