@@ -98,3 +98,5 @@ Objectif : identifier les clauses à vérifier dans un contrat de fourniture, d�
 - Assistance à la migration.
 - Continuité de service.
 - Sortie en cas de changement substantiel du modèle ou du service.
+
+[← Retour à l’accueil du kit](index.html)
