@@ -101,3 +101,5 @@ Objectif : conserver les pièces utiles pour démontrer, plusieurs mois ou anné
 - Peut-on démontrer que les risques PI ont été analysés ?
 - Peut-on démontrer que les risques RGPD ont été examinés ?
 - Peut-on répondre à une réclamation sans reconstituer tout le dossier ?
+
+[← Retour à l’accueil du kit](index.html)
