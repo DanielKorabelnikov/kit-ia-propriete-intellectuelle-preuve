@@ -70,3 +70,5 @@ Objectif : obtenir les informations minimales avant d’intégrer une solution I
 - Les dépendances techniques sont-elles documentées ?
 - Le fournisseur peut-il modifier le modèle sans préavis ?
 - Quelles garanties existent en cas d’arrêt du service ou de modification substantielle ?
+
+[← Retour à l’accueil du kit](index.html)
