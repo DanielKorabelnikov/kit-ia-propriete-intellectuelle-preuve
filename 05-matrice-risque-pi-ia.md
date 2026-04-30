@@ -46,3 +46,5 @@ Copier-coller le tableau ci-dessous dans un outil de suivi interne ou compléter
 - Le fournisseur donne-t-il une garantie exploitable ?
 - Existe-t-il une procédure en cas de réclamation ?
 - Le dossier de preuve est-il suffisant ?
+
+[← Retour à l’accueil du kit](index.html)
